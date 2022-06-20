@@ -1,4 +1,4 @@
-# Mouse Padder
+# Mouse Ping Pong
 
 Browser game developed using JavaScript canvas.
 
